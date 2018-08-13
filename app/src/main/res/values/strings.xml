@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityChange</string>
+    <string name="accessibility_service_description">允许该程序监听你的操作！</string>>
+</resources>
